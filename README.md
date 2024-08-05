@@ -1,2 +1,2 @@
-# rust-arc-hashring-grid
-Thread-safe HashRingGrid in Rust using Atomic Reference Counting (Arc)
+# Rust Hash Ring using Atomic Referencing Count (Arc)
+Thread-safe HashRing in Rust using Atomic Reference Counting (Arc)
